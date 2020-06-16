@@ -1,0 +1,36 @@
+[1592192862009] [32mINFO [39m (1611 on bogon): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/",
+      "hostname": "localhost:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 52277
+    }
+    reqId: 2
+[1592192862009] [31mERROR[39m (1611 on bogon): [36mkkk[39m
+[1592192862010] [32mINFO [39m (1611 on bogon): [36mrequest completed[39m
+    res: {
+      "statusCode": 200
+    }
+    responseTime: 0.42702100053429604
+    reqId: 2
+[1592192887334] [32mINFO [39m (1631 on bogon): [36mhahhaha[39m
+[1592192887336] [32mINFO [39m (1631 on bogon): [36m/logs[39m
+[1592192887510] [32mINFO [39m (1631 on bogon): [36mServer listening at http://127.0.0.1:3000[39m
+[1592192887510] [32mINFO [39m (1631 on bogon): [36mServer listening on http://127.0.0.1:3000[39m
+[1592192889269] [32mINFO [39m (1631 on bogon): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/",
+      "hostname": "localhost:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 52279
+    }
+    reqId: 1
+[1592192889271] [31mERROR[39m (1631 on bogon): [36mkkk[39m
+[1592192889276] [32mINFO [39m (1631 on bogon): [36mrequest completed[39m
+    res: {
+      "statusCode": 200
+    }
+    responseTime: 5.391691999509931
+    reqId: 1
